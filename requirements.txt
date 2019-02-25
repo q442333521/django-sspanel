@@ -1,0 +1,17 @@
+django-prometheus
+django-countries
+django-crontab
+django-jet
+Markdown
+Pillow
+python-alipay-sdk
+qrcode
+requests
+tomd
+uWSGI
+Django
+mysqlclient
+pycrypto
+gevent
+raven
+pendulum
